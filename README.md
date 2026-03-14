@@ -24,6 +24,4 @@ This repository contains **four small web projects** demonstrating skills in **H
 
 ---
 
-## Folder Structure
-tor)
-└── README.md
+
